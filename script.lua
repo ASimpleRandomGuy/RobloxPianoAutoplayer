@@ -1,6 +1,6 @@
 -- customize how ever you like
 
-shared.stop = true
+shared.stop = false
 wait(5)
 shared.stop = false
 
